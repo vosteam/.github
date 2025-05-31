@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vosteam/.github/main/profile/vosteam-logo.svg" width="200" alt="vosteam logo">
+  <img src="https://raw.githubusercontent.com/vosteam/.github/main/vosteam-logo.svg" width="200" alt="vosteam logo">
 </p>
 
 <h1 align="center">Добро пожаловать в vosteam!</h1>
